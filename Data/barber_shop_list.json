@@ -98,31 +98,31 @@
             "services": [
                 {
                     "id": 0,
-                    "name": "Kid Haircut",
+                    "name": "Kid Haircut 0",
                     "price": 10,
                     "duration": "00:30"
                 },
                 {
                     "id": 1,
-                    "name": "Girl Haircut",
+                    "name": "Girl Haircut 0",
                     "price": 10,
                     "duration": "00:30"
                 },
                 {
                     "id": 2,
-                    "name": "Man Haircut",
+                    "name": "Man Haircut 0",
                     "price": 15,
                     "duration": "00:30"
                 },
                 {
                     "id": 3,
-                    "name": "Woman Haircut",
+                    "name": "Woman Haircut 0",
                     "price": 15,
                     "duration": "00:30"
                 },
                 {
                     "id": 4,
-                    "name": "Hair dye",
+                    "name": "Hair dye 0",
                     "price": 20,
                     "duration": "00:30"
                 }
@@ -289,31 +289,31 @@
             "services": [
                 {
                     "id": 0,
-                    "name": "Kid Haircut",
+                    "name": "Kid Haircut 1",
                     "price": 10,
                     "duration": "00:30"
                 },
                 {
                     "id": 1,
-                    "name": "Girl Haircut",
+                    "name": "Girl Haircut 1",
                     "price": 10,
                     "duration": "00:30"
                 },
                 {
                     "id": 2,
-                    "name": "Man Haircut",
+                    "name": "Man Haircut 1",
                     "price": 15,
                     "duration": "00:30"
                 },
                 {
                     "id": 3,
-                    "name": "Woman Haircut",
+                    "name": "Woman Haircut 1",
                     "price": 15,
                     "duration": "00:30"
                 },
                 {
                     "id": 4,
-                    "name": "Hair dye",
+                    "name": "Hair dye 1",
                     "price": 20,
                     "duration": "00:30"
                 }
@@ -480,31 +480,31 @@
             "services": [
                 {
                     "id": 0,
-                    "name": "Kid Haircut",
+                    "name": "Kid Haircut 1",
                     "price": 10,
                     "duration": "00:30"
                 },
                 {
                     "id": 1,
-                    "name": "Girl Haircut",
+                    "name": "Girl Haircut 1",
                     "price": 10,
                     "duration": "00:30"
                 },
                 {
                     "id": 2,
-                    "name": "Man Haircut",
+                    "name": "Man Haircut 1",
                     "price": 15,
                     "duration": "00:30"
                 },
                 {
                     "id": 3,
-                    "name": "Woman Haircut",
+                    "name": "Woman Haircut 1",
                     "price": 15,
                     "duration": "00:30"
                 },
                 {
                     "id": 4,
-                    "name": "Hair dye",
+                    "name": "Hair dye 1",
                     "price": 20,
                     "duration": "00:30"
                 }
